@@ -10,7 +10,7 @@ To use this script, follow the below steps
 1. Execute script
 1. Enter source data folder and location where you wish to output the result.
 1. Go to your Withings web dashboard at https://healthmate.withings.com/
-1. lick the arrow in the upper right hand corner and select Settings
+1. Click the arrow in the upper right hand corner and select Settings
 1. Choose your profile
 1. Select Import My Data under Manage My Data
 1. Select Choose File under Weight and select the first output .csv file
